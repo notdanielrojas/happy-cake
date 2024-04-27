@@ -1,0 +1,32 @@
+/* Importación de la fuente Poppins desde Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap");
+
+/* Aplicación de la fuente Poppins al cuerpo del documento */
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+/* Estilos para el título de la página de inicio */
+.titulo-home {
+  font-size: 80px; /* Tamaño de fuente de 80px */
+}
+
+/* Estilos para el subtítulo de la página de inicio */
+.sub-titulo-home {
+  font-size: 40px; /* Tamaño de fuente de 40px */
+}
+
+/* Estilos para el icono de la página de inicio */
+.icono-home {
+  font-size: 80px; /* Tamaño de fuente de 80px */
+}
+
+/* Estilos para el título de la página de contacto */
+.titulo-contacto {
+  font-size: 60px; /* Tamaño de fuente de 60px */
+}
+
+/* Estilos para el icono de error */
+.icono-error {
+  font-size: 150px; /* Tamaño de fuente de 150px */
+}
